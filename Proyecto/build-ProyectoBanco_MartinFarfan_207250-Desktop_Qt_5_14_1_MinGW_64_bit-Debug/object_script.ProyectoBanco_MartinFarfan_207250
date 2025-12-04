@@ -1,0 +1,16 @@
+banco.o
+consultasgerenciales.o
+creargerente.o
+crearusuario.o
+cuenta.o
+cuentaahorros.o
+cuentacorriente.o
+datos.o
+eliminaruc.o
+main.o
+polizaahorros.o
+seguridad.o
+seguridadgerente.o
+tipocuenta.o
+vercuenta.o
+verusuario.o
